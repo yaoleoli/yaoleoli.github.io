@@ -1,0 +1,46 @@
+# jemdoc: menu{MENU}{home.html}
+# jemdoc: nofooter
+# jemdoc: addcss{css\jemdoc.css}
+= Yao Li 
+
+~~~
+{}{img_left}{photo\photo.jpg}{photo}{150px}{200px}{}
+Ph.D. student\n
+Advisor: Prof. [https://users.math.msu.edu/users/yanm/index.html Ming Yan]\n
+[https://math.msu.edu Department of Mathematics]\n
+[https://cmse.msu.edu Department of Computational Mathematics, Science and Engineering (CMSE)]\n
+\n
+Michigan State University\n
+C102 [https://maps.msu.edu/interactive/index.php?location=wh Wells Hall]\n
+619 Red Cedar Road\n
+East Lansing, MI 48824\n
+Email: [liyao6@msu.edu]
+\n
+[https://www.linkedin.com/in/yao-leo-li-92569582/  LinkedIn]
+~~~
+
+I am currently a third-year Ph.D. student major in applied mathematics and minor in computational mathematics at Michigan State Univiersity.\n
+
+
+== Education
+:{[https://msu.edu Michigan State University], East Lansing, USA} 
+- Ph.D. major in applied mathematics and minor in CMSE, expected 2022
+
+
+:{[https://www.sustech.edu.cn/en/ Sothern University of Science and Technology] (SUSTech), Shenzhen, China} 
+- B.S. in Pure and Applied Mathematics, summa cum laude, 2017\n
+ Advisor: Prof. [https://www.sustech.edu.cn/en/english-he-bingsheng.html?lang=en Bingsheng He]
+
+== Honors & Awards
+- 2018-2019 Award for Outstanding Early Student in CMSE, MSU, April 2019
+- Douglas A. Spragg Endowed Fellowship in Mathematics, MSU, April 2019
+- Eminence Scholarship, 2nd Prize, SUSTech, May 2016
+- College Start-up Scholarship, SUSTech, 2013 -- 2017
+
+
+== Research Interests
+My current research focuses on
+- Convex Optimization
+- Large-scale Optimization
+- Decentralized Algorithm
+\n
