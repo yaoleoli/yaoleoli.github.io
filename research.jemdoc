@@ -7,12 +7,12 @@
 == Publications
 . *Y. Li*, X. Liu, J. Tang, M. Yan and K. Yuan, Decentralized composite optimization with compression, 2021, In Preparation.
 . H. Tang, *Y. Li*, J. Liu and M. Yan, [https://arxiv.org/abs/2108.02102 /ErrorCompensatedX: error compensation for variance reduced algorithms/], 2021.
-. X. Liu, *Y. Li*, R. Wang, J. Tang and M. Yan, [https://openreview.net/forum?id=84gjULz1t5  /Linear convergent decentralized optimization with compression/], The Ninth International Conference on Learning Representations, 2021. ([Slide_LEAD_ICLR2021.pdf slides])
-. X. Liu, *Y. Li*, J. Tang and M. Yan, [http://proceedings.mlr.press/v108/liu20a.html /A double residual compression algorithm for efficient distributed learning/], Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics, PMLR 108:133-143, 2020. ([AISTATS2020_DORE.pdf slides])
+. X. Liu, *Y. Li*, R. Wang, J. Tang and M. Yan, [https://openreview.net/forum?id=84gjULz1t5  /Linear convergent decentralized optimization with compression/], The Ninth International Conference on Learning Representations, 2021. ([slides\Slide_LEAD_ICLR2021.pdf slides])
+. X. Liu, *Y. Li*, J. Tang and M. Yan, [http://proceedings.mlr.press/v108/liu20a.html /A double residual compression algorithm for efficient distributed learning/], Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics, PMLR 108:133-143, 2020. ([slides\AISTATS2020_DORE.pdf slides])
 . *Y. Li* and M. Yan, [https://doi.org/10.1007/s10957-021-01833-y /On the linear convergence of two decentralized algorithms/], Journal of Optimization Theory and Applications, pages 1-20, 2021. 
 
 == Presentations & Talks
-. Title: /A Communication Compression Decentralized Algorithm for Convex Composite Optimization/ ([Prox_LEAD_MOPTA2021.pdf slides])\n
+. Title: /A Communication Compression Decentralized Algorithm for Convex Composite Optimization/ ([slides\Prox_LEAD_MOPTA2021.pdf slides])\n
   Lehigh University, Bethlehem, PA, , Aug 2021\n
-. Title: /Preconditioned ADMM on (Convolutional) Sparse Coding/ ([preADMM.pdf slides])\n
+. Title: /Preconditioned ADMM on (Convolutional) Sparse Coding/ ([slides\preADMM.pdf slides])\n
   Los Alamos National Laboratory, Los Alamos, NM, Aug 2019\n

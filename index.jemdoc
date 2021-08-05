@@ -4,7 +4,7 @@
 = Yao Li 
 
 ~~~
-{}{img_left}{photo\photo1.jpg}{photo}{150px}{200px}{}
+{}{img_left}{photo\photo2.jpg}{photo}{240px}{240px}{}
 Ph.D. candidate\n
 Advisor: Prof. [https://users.math.msu.edu/users/yanm/index.html Ming Yan]\n
 [https://math.msu.edu Department of Mathematics]\n
@@ -43,7 +43,7 @@ I am a forth-year Ph.D. student majoring in applied mathematics with a minor in 
 
 
 == Research Interests
-These [compre_slides.pdf slides] are used for my comprehensive exam, which covers two topics I did in 2019. My current research focuses on
+These [slides\compre_slides.pdf slides] are used for my comprehensive exam, which covers two topics I did in 2019. My current research focuses on
 - Convex Optimization
 - Large-scale Optimization
 - Decentralized Algorithm \n
