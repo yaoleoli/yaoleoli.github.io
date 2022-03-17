@@ -13,6 +13,8 @@
 . *Y. Li* and M. Yan, [https://doi.org/10.1007/s10957-021-01833-y /On the linear convergence of two decentralized algorithms/], Journal of Optimization Theory and Applications, pages 1-20, 2021. 
 
 == Presentations & Talks
+. Title: /Decentralized Composite Optimization with Compression/ ([slides\Prox_LEAD_INFORMS2022.pdf slides])\n
+  Greenville, SC,  Mar 2022\n
 . Tutorial: [https://lxiaorui.github.io/distopt/ /Communication Efficient Distributed Learning/] ([slides\IJCAI2021_OPT_Tutorial.pdf slides])\n
   Montreal-themed Virtual Reality, Aug 2021\n
 . Title: /A Communication Compression Decentralized Algorithm for Convex Composite Optimization/ ([slides\Prox_LEAD_MOPTA2021.pdf slides])\n
